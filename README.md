@@ -1,2 +1,2 @@
 # livescores #CricScores
-# https://tinyurl.com/LiveCricScores
+# https://tinyurl.com/LiveCricScore
